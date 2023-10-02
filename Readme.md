@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Ryan Kaique😁
 
  <div>
-   <a href="https://github.com/Soulexludwin">
+   <a href="https://github.com/soulexludwin">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soulexludwin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soulexludwin&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Me segue nas redes abaixo!
  
 <div> 
   <a href="https://instagram.com/ryankaisil/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
