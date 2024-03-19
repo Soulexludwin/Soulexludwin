@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Ryan Kaique😁
+## Bem-vindo(a) ao meu perfil 🤠
 
  <div>
    <a href="https://github.com/soulexludwin">
@@ -14,10 +14,10 @@
  
 <br>
  
-### Me segue nas redes abaixo!
+### Minhas redes sociais!🤠
  
 <div> 
   <a href="https://instagram.com/ryankaisil/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="Discord:zorexludwin" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="discordapp.com/users/zorexludwin" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/ryan-kaique-599195213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
