@@ -16,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/Soulexludwin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soulexludwin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="As minhas estatísticas"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soulexludwin&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens Mais Usadas"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soulexludwin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" alt="As minhas estatísticas"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soulexludwin&layout=compact&langs_count=6&theme=matrix" alt="Linguagens Mais Usadas"/>
   </a>
 </div>
 
