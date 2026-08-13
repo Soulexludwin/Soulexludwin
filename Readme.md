@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 🤠
+## Bem-vindo(a) ao meu perfil.
 
  <div>
    <a href="https://github.com/soulexludwin">
@@ -7,12 +7,12 @@
 </div>
     
 <div style="display: inline_block"><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Soulexludwin&layout=donut&theme=matrix)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  
 <br>
  
-### Minhas redes sociais!🤠
+### Minhas redes sociais!
  
 <div> 
   <a href="https://instagram.com/ryankaisil/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
